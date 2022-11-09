@@ -1,2 +1,2 @@
-# jmm-media-css-urbalab-09112022
-Ejemplo responsive @media css
+# Responsive Design con @media y Bootstrap
+Ejemplo responsive @media y Bootstrap css Urbalab 09/11/2022
